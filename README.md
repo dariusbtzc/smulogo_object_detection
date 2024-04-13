@@ -11,9 +11,9 @@ This project aims to identify the school logos of Singapore Management Universit
 5. Model detection: `yolov5_smulogo_detect.ipynb` was used to execute the trained YOLOv5 model
 
 # Output Examples
-![SMU Logo Detection 1]()
+![SMU Logo Detection 1](https://github.com/dariusbtzc/smulogo_object_detection/blob/main/DSCF1761.jpeg)
 
-![SMU Logo Detection 2]()
+![SMU Logo Detection 2](https://github.com/dariusbtzc/smulogo_object_detection/blob/main/DSCF1912.jpeg)
 
 
 
