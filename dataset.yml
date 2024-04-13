@@ -1,0 +1,10 @@
+# Paths
+path: ../smulogo_v2
+train: images/train  
+val: images/val
+test: images/test_prof
+
+# Classes
+nc: 1
+names:
+    0: SMU Logo
