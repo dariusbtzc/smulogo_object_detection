@@ -7,7 +7,7 @@ This project aims to identify the school logos of Singapore Management Universit
 1. Data collection: Various images of SMU logos were photographed
 2. Data augmentation: `data_augmentation_smulogo.ipynb` was used to transform and augment more images
 3. Data annotation: [CVAT](https://www.cvat.ai) was used to annotate the SMU logos within the images and produce the training files
-4. Model training: `yolov5_smulogo_train.ipynb` was used to train and evaluate the YOLOv5 model
+4. Model training: `yolov5_smulogo_train.ipynb` was used to train and evaluate the YOLOv5 model (use `git clone` to clone the repository)
 5. Model detection: `yolov5_smulogo_detect.ipynb` was used to execute the trained YOLOv5 model
 
 # Output Examples
